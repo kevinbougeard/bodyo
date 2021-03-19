@@ -6,7 +6,7 @@ Django==3.0.6
 django-countries==6.1.2
 django-phone-field==1.8.0
 django-phonenumber-field==4.0.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 drf-extensions==0.6.0
 drf-nested-routers==0.91
 gitdb==4.0.5
